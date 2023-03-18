@@ -1,7 +1,6 @@
 # Olá, me chamo Douglas de Jesus ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como auxiliar de produção em uma metalurgica.
 - 😄 Estou procurando um estágio na área de Front-end.
 - 🎮 Gosto de jogos de futebol.  
 
